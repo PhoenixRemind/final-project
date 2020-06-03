@@ -1,6 +1,6 @@
 ##Capstone Project Overview
 **********************************************
-##Application Name
+##Application Name: 
 CX360
 **********************************************
 ##Elevator Pitch
