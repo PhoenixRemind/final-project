@@ -1,19 +1,28 @@
-#Capstone Project Overview
+##Capstone Project Overview
 ##Application Name
 **********************************************
-Tech Job Seeker
+CX360
 
 ##Elevator Pitch
 **********************************************
-This application allows job seekers to find and search for jobs on the market and for users to search for jobs.This application allows job seekers to find and search for jobs on the market and for users to search for jobs.This application allows job seekers to find and search for jobs on the market and for users to search for jobs.This application allows job seekers to find and search for jobs on the market and for users to search for jobs.
 
-This application allows job seekers to find and search for jobs on the market and for users to search for jobs.This application allows job seekers to find and search for jobs on the market and for users to search for jobs.This application allows job seekers to find and search for jobs on the market and for users to search for jobs.This application allows job seekers to find and search for jobs on the market and for users to search for jobs.
+CX360 could be applied to an existing application when a customer is in need of support. This idea comes from my personal experiences within the call center and the advance repair departments. Customers would call into Tier 1 seeking assistance with an issue, in some cases those issues were more complex and were unable to be resolved by the ITG's and did not require a technician in the home. It would get escalated to the Tier 1.5 ATS/Tier 2 teams for back-end investigation.
+
+Many times I personally heard from customers that their thought when given a ticket number and told someone would call in 24-72 hours, they assumed they were getting blown off, until someone called them to their surprise. 24-72 hours can seem quite a long time when you are anxiously awaiting a fix for an existing issue. 
+
+I would like to provide the option for the customer to see their ticket progress, much like you would see the progress on a package being delivered to your home. With our company working more remote during these times and trying to resolve issues without having to be inside our customers home unless necessary, they could see that their issue is being cared for by seeing updates when the ticket was being worked and what the next steps were. This could improve the customer experience as well as lead to higher NPS scores. They get the peace of mind that we are caring for them without having to call or resort to social media asking for updates or re-escalate and potentially end up as a Corporate escalation. This could lead to less repeat calls/social media inquiries as well.
 
 ##Key Features
 **********************************************
-1. User and Admin Login
-2. Saved jobs within User Profiles
-3. Google Maps integration for Employer location
+1. Customer login and profile
+2. Customer ability to view updates from agents on any/all open cases
+3. Customer ability to add feedback/easy communication to agent working case
+4. Customer ability to request contact from fix agent.
+
+If Time permits.
+1. Agent sign in and ability to search for customers
+2. Agent ability to update/notate ticket status
+3. Agent receives alert in ticket when customer requests contact
 
 ##Technologies List
 **********************************************
@@ -21,30 +30,27 @@ This application allows job seekers to find and search for jobs on the market an
 2. Java
 3. Bootstrap
 4. CSS
-5. Google Maps API
+5. Thymeleaf
 
 ##Example Applications
 **********************************************
-Indeed.com : https://www.indeed.com/
-monster.com : https://www.monster.com/
+https://www.atlassian.com/software/jira
 
+https://www.zendesk.com/
 
 ##Initial User stories
 **********************************************
-As a Job Seeker I want to list all available jobs so that I can get an overview of the overall job market.
+As a User I want to be able to sign in to view my account details
 
-As a Job Seeker I want to search for jobs by location, skill and employer so I can find jobs that are within specfication.
+As a User I want to view my open support cases so I know my issue is being handled
 
-As a Job Seeker I want to access a personal profile of my choices so I can have jobs specific to my needs display.
+As a User I want the ability to add information to the support case so the fix agent is aware of any changes
 
-As a Job Seeker I want to save relivent jobs to my profile so I can return to them on a later date.
+As a User I want the ability to request contact from the fix agent to clarify the issues on my case
 
-As a Company I want to add in a new job entries so I can allow job seekers to easily find them.
+As a Fix Agent I want the ability to search for customer cases
 
-As a Company I want to edit in a job entries so I can update their status their properties easily.
+As a Fix Agent I want to view/update my customers existing cases
 
-As a Company I want to disable job entries that I am no longer offering so that job seekers can not see them.
+As a Fix Agent I want to be alerted when my customer is requesting contact
 
-As a Company I want to delete job entries that are no longer valid so that job seeker can not access them.
-
-As a Company I want to see a list of all of my job entries that are they can easily be edited and updated in the future."# final-project" 
