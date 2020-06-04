@@ -27,6 +27,7 @@ I would like to provide the option for the customer to see their ticket progress
 3. Bootstrap
 4. CSS
 5. Thymeleaf
+6. MySQL
 
 **********************************************
 ##Example Applications
