@@ -15,15 +15,9 @@ I would like to provide the option for the customer to see their ticket progress
 **********************************************
 ##Key Features
 **********************************************
-1. Customer login and profile
-2. Customer ability to view updates from agents on any/all open cases
-3. Customer ability to add feedback/easy communication to agent working case
-4. Customer ability to request contact from fix agent.
-
-If Time permits.
-1. Agent sign in and ability to search for customers
-2. Agent ability to update/notate ticket status
-3. Agent receives alert in ticket when customer requests contact
+1. Multiple type user sign in authentication
+2. Database integration
+3. Email notification between users on tracked cases
 
 **********************************************
 ##Technologies List
@@ -53,6 +47,8 @@ As a User I want the ability to add information to the support case so the fix a
 As a User I want the ability to request contact from the fix agent to clarify the issues on my case
 
 As a Fix Agent I want the ability to search for customer cases
+
+As a Fix Agent I want the ability to create a case for a customer
 
 As a Fix Agent I want to view/update my customers existing cases
 
