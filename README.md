@@ -44,11 +44,9 @@ As a User I want to view my open support cases so I know my issue is being handl
 
 As a User I want the ability to add information to the support case so the fix agent is aware of any changes
 
-As a User I want the ability to request contact from the fix agent to clarify the issues on my case
+As a User I want the ability to request contact from the fix agent to speak with them as soon as possible
 
 As a Fix Agent I want the ability to search for customer cases
-
-As a Fix Agent I want the ability to create a case for a customer
 
 As a Fix Agent I want to view/update my customers existing cases
 
